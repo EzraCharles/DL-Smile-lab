@@ -1,0 +1,11 @@
+/****/*.jpg
+*.h5
+test/
+test-faces/
+test-private-faces/
+test-private-labels/
+test-private-lists/
+test-public-faces/
+test-public-lists/
+train/
+train-faces/
